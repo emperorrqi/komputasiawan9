@@ -10,7 +10,7 @@ const data = [
     kode_barang: "b501",
     nama_barang: "mousepad",
     jumlah_masuk: 300,
-    jumlah_keluar: 100
+    jumlah_keluar: 100.
   }
 ];
 
